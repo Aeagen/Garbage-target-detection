@@ -1,6 +1,6 @@
 tqdm
-typeguard ; python_version >= '3.4'
-visualdl>=2.1.0 ; python_version <= '3.7'
+typeguard ; python_version 
+visualdl>=2.1.0 ; python_version 
 opencv-python
 PyYAML
 shapely
@@ -15,3 +15,4 @@ sklearn
 motmetrics
 openpyxl
 cython_bbox
+paddlepaddle-gpu
